@@ -1,5 +1,4 @@
 # My project preview
-<br>
  Desktop-design
 ![desktop-design](https://github.com/user-attachments/assets/d2e1f422-faa2-41b2-b9c1-496f686f4dc0)
 Mobile-design<br>
